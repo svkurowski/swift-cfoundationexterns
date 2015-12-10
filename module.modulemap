@@ -1,0 +1,4 @@
+module CFoundationExterns [system] {
+    header "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.11.sdk/usr/include/crt_externs.h"
+    export *
+}
